@@ -13,7 +13,7 @@ wrapt
 pandas
 tqdm
 dataclasses;python_version<'3.7'  # this won't be needed when we move to python 3.7
-websockets==8.1
+websockets==9.0.1
 tabulate
 opencensus-ext-azure
 requirements-parser
